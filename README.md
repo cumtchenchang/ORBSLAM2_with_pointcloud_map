@@ -1,4 +1,4 @@
-
+#可以构建地图并存储
 # ORBSLAM2_with_pointcloud_map
 This is a modified ORB_SLAM2 (from https://github.com/raulmur/ORB_SLAM2, thanks for Raul's great work!) with a online point cloud map module running in RGB-D mode. You can visualize your point cloud map during the SLAM process. 
 
